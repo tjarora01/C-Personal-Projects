@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Towers_Of_Haoi.dir/main.cpp.o CMakeFiles/Towers_Of_Haoi.dir/stack.cpp.o CMakeFiles/Towers_Of_Haoi.dir/disc.cpp.o  -o Towers_Of_Haoi 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanmayarora/CLionProjects/AirPortLinkedList/main.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+slist.h
+/Users/tanmayarora/CLionProjects/AirPortLinkedList/slist.h
+
+/Users/tanmayarora/CLionProjects/AirPortLinkedList/slist.cpp
+slist.h
+/Users/tanmayarora/CLionProjects/AirPortLinkedList/slist.h
+iostream
+-
+
+/Users/tanmayarora/CLionProjects/AirPortLinkedList/slist.h
+

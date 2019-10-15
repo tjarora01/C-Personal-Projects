@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanmayarora/CLionProjects/LAnixMessagingQueues/PQueue.h
+
+/Users/tanmayarora/CLionProjects/LAnixMessagingQueues/lqueue.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/types.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+mutex
+-
+lqueue.h
+/Users/tanmayarora/CLionProjects/LAnixMessagingQueues/lqueue.h
+PQueue.h
+/Users/tanmayarora/CLionProjects/LAnixMessagingQueues/PQueue.h
+
+/Users/tanmayarora/CLionProjects/LAnixMessagingQueues/lqueue.h
+sys/types.h
+-
+siginfo.h
+/Users/tanmayarora/CLionProjects/LAnixMessagingQueues/siginfo.h
+sys/fcntl.h
+-
+
+/Users/tanmayarora/CLionProjects/LAnixMessagingQueues/siginfo.h
+sys/time.h
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanmayarora/CLionProjects/LexicalAnalysis/main.cpp
+sstream
+-
+vector
+-
+iostream
+-
+string
+-
+unordered_set
+-
+

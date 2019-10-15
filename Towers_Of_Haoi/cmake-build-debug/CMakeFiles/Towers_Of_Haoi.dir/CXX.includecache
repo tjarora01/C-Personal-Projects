@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanmayarora/CLionProjects/Towers_Of_Haoi/disc.h
+stdio.h
+-
+string.h
+-
+iostream
+-
+
+/Users/tanmayarora/CLionProjects/Towers_Of_Haoi/stack.cpp
+stdio.h
+-
+iostream
+-
+math.h
+-
+stack.h
+/Users/tanmayarora/CLionProjects/Towers_Of_Haoi/stack.h
+disc.h
+/Users/tanmayarora/CLionProjects/Towers_Of_Haoi/disc.h
+
+/Users/tanmayarora/CLionProjects/Towers_Of_Haoi/stack.h
+

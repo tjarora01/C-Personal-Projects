@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tanmayarora/CLionProjects/Practice/PQueue.h
+
+/Users/tanmayarora/CLionProjects/Practice/main.cpp
+iostream
+-
+PQueue.h
+/Users/tanmayarora/CLionProjects/Practice/PQueue.h
+
